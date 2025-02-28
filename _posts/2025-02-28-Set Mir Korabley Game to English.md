@@ -20,7 +20,7 @@ LocalizedKorabli provides a GUI tool to install the latest available localizatio
 
 Steps:
 
-- Visit I18nInstallerGUI's [latest release](https://github.com/LocalizedKorabli/I18nInstallerGUI).
+- Visit I18nInstallerGUI's [latest release](https://github.com/LocalizedKorabli/I18nInstallerGUI/releases/latest).
 
 - Go to `Assets`, click the executable file listed to download it.
 
