@@ -12,8 +12,6 @@ As is known, for some reason we can't purchase in-game items in Mir Korabley dir
 
 [Video Tutorial](https://www.youtube.com/watch?v=pkWIs8lE5xc)
 
-Steps:
-
 1. Make sure to choose the region **Беларусь** (Belarus) when you create your Lesta account.
 
 2. On the [Premium Shop](https://lestagames.by/shop/wows/), select the item you want to purchase.

@@ -28,9 +28,9 @@ Steps:
 
 4. Exit Lesta Game Center.
 
-5. Backup the `dlls` folder in the opened directory;
+5. Backup the **dlls** folder in the opened directory;
 
-6. Extract the `dlls` folder in the archive to the opened directory, and make sure a `lgc_res.dat` is replaced.
+6. Extract the **dlls** folder in the archive to the opened directory, and make sure a **lgc_res.dat** is replaced.
 
 7. Launch Lesta Game Center.
 
@@ -47,7 +47,7 @@ Steps:
 
 - Q: Why is it in Russian again?
 
-  A: Lesta Game Center itself updated the `lgc_res.dat` file. Reinstall the localization pack again.
+  A: Lesta Game Center itself updated the **lgc_res.dat** file. Reinstall the localization pack again.
   
 - Q: Some texts missing or not translated?
 

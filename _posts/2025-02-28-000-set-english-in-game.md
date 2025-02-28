@@ -22,7 +22,7 @@ Steps:
 
 - Visit I18nInstallerGUI's [latest release](https://github.com/LocalizedKorabli/I18nInstallerGUI/releases/latest).
 
-- Go to `Assets`, click the executable file listed to download it.
+- Go to **Assets**, click the executable file listed to download it.
 
 - Run the executable to install the I18n Installer.
 
@@ -30,7 +30,7 @@ Steps:
 
 - If the game is running, **close it**.
 
-- Select the right game dir, choose your desired I18n Source (GitLab - Faster download; GitHub - Always up-to-date), and click `Install I18n`.
+- Select the right game dir, choose your desired I18n Source (GitLab - Faster download; GitHub - Always up-to-date), and click **Install I18n**.
 
 - After the installation is complete, a prompt window will pop up. Then you are all set!
 
@@ -40,23 +40,23 @@ Steps:
 
 - Visit LocalizedKorabli's [post](https://forum.korabli.su/topic/163517-) on the Mir Korabley official forum.
 
-- Click the red `СКАЧАТЬ / DOWNLOAD` button to redirect to Google Drive file sharing page.
+- Click the red **СКАЧАТЬ / DOWNLOAD** button to redirect to Google Drive file sharing page.
 
 - Click the download button in the upper right corner.
 
-- Locate the installation path of Mir Korabley client, usually `X:/Games/Korabli`.
+- Locate the installation path of Mir Korabley client, usually **X:/Games/Korabli**.
 
-- Go to the `bin` folder where you may see multiple folders named with more than 7 digits, e.g. `8801689`. Select the two of these folders with the largest values and perform the following.
+- Go to the **bin** folder where you may see multiple folders named with more than 7 digits, e.g. **8801689**. Select the two of these folders with the largest values and perform the following.
 
-- Go to the designated "digits" folder, and then go to the `res_mods` folder.
+- Go to the designated "digits" folder, and then go to the **res_mods** folder.
 
 - If the game is running, **close it**.
 
-- Unzip the downloaded .zip file to `res_mods`.
+- Unzip the downloaded .zip file to **res_mods**.
 
-- The final directory structure will be like this below (assume that the designated folders are `8801322` and `8801689`):
+- The final directory structure will be like this below (assume that the designated folders are **8801322** and **8801689**):
 
-```
+******
     Game Directory
     └─bin
         ├─8801322
@@ -74,7 +74,7 @@ Steps:
                     └─ru
                        └─LC_MESSAGES
                             global.mo
-```
+******
 
 ## Q&A
 
@@ -84,7 +84,7 @@ Steps:
   
 - Q: After a certain startup, the game shows up in Russian again?
 
-  A: The build number folder in the `bin` directory is replaced with each version update, just reinstall the localization mod.
+  A: The build number folder in the **bin** directory is replaced with each version update, just reinstall the localization mod.
 
 - Q: What if there are mistranslated or untranslated texts?
 
