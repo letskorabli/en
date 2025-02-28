@@ -1,6 +1,6 @@
 ---
 title: "Set Mir Korabley Game to English"
-date: 2025-02-28
+date: 2025-02-28 23:00:00
 permalink: /set-english-in-game/
 ---
 
