@@ -73,7 +73,7 @@ Steps:
                 └─texts
                     └─ru
                        └─LC_MESSAGES
-                           global.mo
+                            global.mo
 ```
 
 ## Q&A
