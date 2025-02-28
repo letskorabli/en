@@ -19,10 +19,10 @@ Steps:
 2. Follow the instructions in the Picture 1&2 to check the current version and open the working directory of Lesta Game Center.
     
     P1
-    ![Picture 1](/assets/set-english-for-lgc/1.png)
+    ![Picture 1](/../assets/set-english-for-lgc/1.png)
 
     P2
-    ![Picture 2](/assets/set-english-for-lgc/2.png)
+    ![Picture 2](/../assets/set-english-for-lgc/2.png)
 
 3. Check if the version displayed in the application matches with the one in the archive's file name. If not, update the Lesta Game Center or check the release page for a newer version of the localization pack.
 
@@ -37,11 +37,11 @@ Steps:
 8. Follow the instructions in the Picture 3 to set the language.
 
     P3
-    ![Picture 3](/assets/set-english-for-lgc/3.png)
+    ![Picture 3](/../assets/set-english-for-lgc/3.png)
 
 9. You are all set! Note that hardcoded contents and news will still be in Russian.
 
-    ![Showcase](/assets/set-english-for-lgc/showcase.png)
+    ![Showcase](/../assets/set-english-for-lgc/showcase.png)
 
 ## Q&A
 
