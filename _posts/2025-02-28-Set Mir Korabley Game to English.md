@@ -1,6 +1,7 @@
 ---
 title: "Set Mir Korabley Game to English"
 date: 2025-02-28
+permalink: /set-english-in-game/
 ---
 
 ## Introduction
