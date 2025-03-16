@@ -26,4 +26,4 @@ As is known, for some reason we can't purchase in-game items in Mir Korabley dir
 
 7. Paste the order code you just copied into the input box on the page, and click the blue button **Далее**.
 
-8. The page to pay with your bank card will now pop up. Note that there will be a tax of at least **5%** (5% of which will be collected by ЕРИП and the rest depending on the specific bank).
+8. The page to pay with your bank card will now pop up. Note that there will be a fee of at least **5%** (5% of which will be collected by ЕРИП and the rest depending on the specific bank).
